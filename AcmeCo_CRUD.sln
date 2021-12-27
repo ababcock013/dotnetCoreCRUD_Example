@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcmeCo_CRUD", "AcmeCo_CRUD\AcmeCo_CRUD.csproj", "{2DC24795-50B8-4784-AC29-11DD3A1B2ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DC24795-50B8-4784-AC29-11DD3A1B2ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC24795-50B8-4784-AC29-11DD3A1B2ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC24795-50B8-4784-AC29-11DD3A1B2ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC24795-50B8-4784-AC29-11DD3A1B2ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
